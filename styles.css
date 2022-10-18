@@ -1,0 +1,66 @@
+.pfp {
+    display: flex;
+    justify-content: center;
+    height: 175px;
+}
+
+.rapfp {
+    border: 2px solid black;
+    border-radius: 10000px;
+}
+
+.rap {
+    border: 10px solid black;
+    width: 750px;
+    height: 1000px;
+
+}
+
+.stats {
+    display: flex;
+    justify-content: center;
+}
+
+.following {
+    padding: 20px;
+    margin: 20px;
+}
+
+.followers {
+    padding: 20px;
+    margin: 20px;
+}
+
+.likes {
+    padding: 20px;
+    margin: 20px;
+}
+
+.font{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.bio1 {
+    display: flex;
+    justify-content: center;
+}
+
+.bio2 {
+    display: flex;
+    justify-content: center;
+}
+
+.follow {
+    width: 300px;
+    height: 100px;
+}
+
+.ig {
+    width: 100px;
+    height: 100px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
